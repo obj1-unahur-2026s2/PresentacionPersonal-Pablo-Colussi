@@ -10,6 +10,6 @@ Mis conocimientos en programacion son nulos y me atrae la idea de aprender aunqu
 de mi zona de confort estudiar algo relacionado a programacion y computadoras 
 
 ### Cosas para contar de mi
--Tengo 2 gatos, Uno se llama Oliver y la otra Hanna
--Me gusta ver series y jugar a la computadora 
--Suelo dormir poco por la noche porque es mi momento favorito de leer
+ Tengo 2 gatos, Uno se llama Oliver y la otra Hanna
+ Me gusta ver series y jugar a la computadora 
+ Suelo dormir poco por la noche porque es mi momento favorito de leer
